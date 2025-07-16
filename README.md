@@ -42,3 +42,23 @@ It’s a milestone project in my journey as I transition from Flutter developmen
 - Best practices in handling asynchronous operations in JS  
 - Updating UI based on data and user actions  
 - Clean code structure and modular logic writing
+
+---
+
+## 🌍 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" height="40" alt="API logo" title="API" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/openweathermap/openweathermap-icon.svg" height="40" alt="OpenWeatherMap logo" title="OpenWeatherMap API" />
+</div>
+
+---
+
+> “Built with curiosity, coded with consistency.”
