@@ -54,10 +54,9 @@ It’s a milestone project in my journey as I transition from Flutter developmen
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" height="40" alt="API logo" title="API" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/openweathermap/openweathermap-icon.svg" height="40" alt="OpenWeatherMap logo" title="OpenWeatherMap API" />
+  <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" height="40" alt="OpenWeatherMap logo" title="OpenWeatherMap API" />
 </div>
+
 
 ---
 
